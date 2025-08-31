@@ -1,0 +1,193 @@
+/*=========== global============= */
+/* document.body.style.backgroundColor = "lightblue"; */
+/* document.body.style.backgroundColor = "lightblue";
+ */
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+body {
+  /* background-color: black; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+h1 {
+  font-size: 79.6px;
+}
+h3 {
+  font-size: 50px;
+}
+
+p {
+  color: rgba(0, 0, 0, 0.5);
+}
+.clearfix {
+  clear: both;
+}
+/* ============nav=============== */
+
+/* .nav {
+  /* background-color: aqua; */
+.navy {
+  margin-top: 20px;
+}
+
+.nav-logo {
+  float: left;
+}
+.nav-list {
+  float: right;
+  list-style: none;
+
+  padding: 0;
+  margin: 0;
+}
+.nav-list li {
+  display: inline;
+  margin-right: 20px;
+}
+.nav-list a {
+  text-decoration: none;
+  color: white;
+}
+.nav-list .free {
+  border-radius: 15px;
+  background-color: #251fb5;
+  padding: 15px 25px;
+}
+.nav-list .log {
+  border-style: groove;
+  border-color: #e6e6f5;
+  border-radius: 15px;
+  padding: 10px 40px;
+  color: #251fb5;
+}
+.clearfix {
+  clear: both;
+}
+
+/* ============Hero============== */
+
+.Hero {
+  text-align: center;
+}
+.back {
+  background-color: #d5c8fa;
+}
+
+.Hero a {
+  display: block;
+  margin: 20px;
+}
+.Hero p {
+  display: block;
+  margin: 50px;
+}
+.Hero .Hero-link {
+  display: inline;
+  text-decoration: none;
+  color: white;
+  padding: 15px 45px;
+  border-radius: 15px;
+  background-color: #251fb5;
+}
+/* ============work============== */
+.work {
+  text-align: center;
+}
+.work .Respona {
+  background-color: #d5c8fa;
+}
+
+/* ============template============== */
+.template {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 20px 20px;
+}
+.template-text {
+  padding: 40px 0px 0px 80px;
+  float: left;
+}
+.template-img {
+  width: 600px;
+  float: right;
+}
+
+/* ============opportunities============== */
+.opportunities {
+  /* width: 80%; */
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 20px 20px;
+}
+
+.opportunities-text {
+  float: right;
+  padding: 0px 30px;
+}
+.opportunities-img {
+  width: 500px;
+  float: left;
+}
+
+/* ============email============== */
+.email {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 20px 20px;
+}
+.email-block {
+  float: left;
+}
+.email-img {
+  width: 600px;
+
+  float: right;
+}
+
+/* ============ai============== */
+
+.ai {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 20px 20px;
+}
+.ai-text {
+  float: left;
+}
+.ai-img {
+  width: 600px;
+
+  float: right;
+}
+
+/* ============quote=============== */
+.quote {
+  margin-top: 90px;
+  margin-bottom: 60px;
+  padding: 20px 20px;
+}
+.quote-img {
+  float: left;
+  width: 500px;
+  border-radius: 10%;
+}
+.quote-block {
+  float: right;
+}
+
+/* ============footer============== */
+.footer {
+  margin-top: 90px;
+}
+.footer-logo {
+  float: left;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  display: inline-block;
+}

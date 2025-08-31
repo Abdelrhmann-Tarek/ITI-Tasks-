@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+input {
+  display: block;
+  margin-bottom: 5px;
+  padding: 6px;
+  width: 200px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+  height: 16px;
+}
+#submit {
+  background-color: green;
+  color: white;
+}
+button {
+  padding: 8px 16px;
+  color: black;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+table {
+  margin-top: 20px;
+  width: 400px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}

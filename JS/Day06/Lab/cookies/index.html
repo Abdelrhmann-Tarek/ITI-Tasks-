@@ -1,0 +1,109 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      .clear-fix {
+        clear: both;
+      }
+      .name-input {
+        padding: 40px 40px;
+
+        width: 50%;
+      }
+      .name-input p {
+        margin: 0px 0px;
+        float: left;
+      }
+      .name-input input {
+        float: right;
+        margin-right: 90px;
+      }
+      .age-input {
+        padding: 40px 40px;
+
+        width: 50%;
+      }
+      .age-input p {
+        margin: 0px 0px;
+        float: left;
+      }
+      .age-input input {
+        float: right;
+        margin-right: 90px;
+      }
+    </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p>Enter your name :</p>
+    <input type="text" id="name-input" />
+    <div class="two-inputs">
+      <div class="name-input">
+        <div class="clear-fix"></div>
+        <div class="age-input">
+          <p>Enter your Age :</p>
+          <input type="text" id="age-input" />
+        </div>
+        <div class="clear-fix"></div>
+      </div>
+    </div>
+
+    <div class="gender-check">
+      <input type="radio" id="male-check" />
+      <img src="../1.jpg" alt="" />
+      <input type="radio" id="female-check" />
+      <img src="../2.jpg" alt="" />
+    </div>
+    <label>Enter color</label>
+    <select id="Enter color">
+      <option value="red">red</option>
+      <option value="green">green</option>
+      <option value="blue">blue</option></select
+    ><br /><br />
+    <button>register</button>
+
+    <script src="main.js"></script>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title></title>
+  </head>
+  <body>
+    <div class="input-group">
+      <label for="name-input">Enter your name:</label>
+      <input type="text" id="name-input" />
+    </div>
+
+    <div class="input-group">
+      <label for="age-input">Enter your age:</label>
+      <input type="text" id="age-input" />
+    </div>
+
+    <div class="gender-check">
+      <label>Gender:</label>
+      <input type="radio" name="gender" id="male-check" value="male" />
+      <img src="../1.jpg" alt="Male" />
+      <input type="radio" name="gender" id="female-check" value="female" />
+      <img src="../2.jpg" alt="Female" />
+    </div>
+
+    <div class="input-group">
+      <label for="color-select">Favorite color:</label>
+      <select id="color-select">
+        <option value="red">Red</option>
+        <option value="green">Green</option>
+        <option value="blue">Blue</option>
+      </select>
+    </div>
+
+    <button id="register-btn">Register</button>
+
+    <script src="main.js"></script>
+  </body>
+</html>

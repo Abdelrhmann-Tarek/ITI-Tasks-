@@ -1,0 +1,11 @@
+.container {
+  padding: 20px 30px;
+  border: 1px solid black;
+  width: 400px;
+}
+#errors {
+  margin-top: 25px;
+  color: red;
+  background: pink;
+  padding: 10px;
+}

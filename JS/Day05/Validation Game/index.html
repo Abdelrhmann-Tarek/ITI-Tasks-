@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Validation Game</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Validation Game</h2>
+
+      <label>Name</label>
+      <input type="text" id="name" /><br /><br />
+
+      <label>Email</label>
+      <input type="text" id="email" /><br /><br />
+
+      <label>Password</label>
+      <input type="password" id="password" /><br /><br />
+
+      <label>Gender</label>
+      <input type="radio" name="gender" value="male" /> Male
+      <input type="radio" name="gender" value="female" /> Female<br /><br />
+
+      <label>Sports</label><br />
+      <input type="checkbox" name="sports" value="tennis" /> Tennis<br />
+      <input type="checkbox" name="sports" value="running" /> Running<br />
+      <input type="checkbox" name="sports" value="football" />
+      Football<br /><br />
+
+      <label>Country</label>
+      <select id="country">
+        <option value="">--Select Country--</option>
+        <option value="spain">Spain</option>
+        <option value="egypt">Egypt</option>
+        <option value="libya">Libya</option></select
+      ><br /><br />
+
+      <button onclick="validate()">Submit</button>
+      <button>Reset</button>
+      <div id="errors"></div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
