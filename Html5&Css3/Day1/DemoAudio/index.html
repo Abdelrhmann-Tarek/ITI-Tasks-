@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Html 5</title>
+    <!-- 
+        html5 (latest version) : new elements (semantic tags),
+                                new input types and attrs
+                                media tags (audio , video)
+                                graphic tags (canvas , svg)
+                                js apis (local storage , session storage , geolocation , drag and drop api)
+
+
+
+                                Semantic tags : nav , header , footer , main , section , article , aside , ......
+
+                                    1- SEO 
+                                    2- Clean code
+                                  
+    
+    -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- <div class="grandparent">
+      <div class="parent">
+        <div class="child-1">Child 1</div>
+        <div class="child-2">Child 2</div>
+        <div class="child-3">Child 3</div>
+      </div>
+    </div> -->
+
+    <!-- Self styudy :custom validation message -->
+
+    <!-- <form>
+      <label>Department</label>
+
+      <input type="text" name="dept" list="dept" />
+      <datalist id="dept">
+        <option value="Mern" />
+        <option value="dotnet" />
+        <option value="python" />
+        <option value="php" />
+        <option value="PD" />
+        <option value="OS" />
+      </datalist>
+
+      <input
+        type="text"
+        name="username"
+        autocomplete="off"
+        id=""
+        value="mona"
+        placeholder="username"
+        required
+        readonly
+      />
+
+      <input type="number" name="" id="numInp" min="10" max="100" />
+      <button type="button" onclick="up()">Up</button>
+      <button type="button" onclick="down()">Down</button>
+      <button type="button" onclick="test()">Test</button>
+
+      <input type="range" name="" id="rangeInp" min="10" max="100" step="10" />
+      <p id="rangeVal"></p>
+
+      <input type="color" name="" id="" />
+      <input type="url" name="" id="" autofocus />
+      <input
+        type="email"
+        name=""
+        id=""
+        pattern="[a-z0-9]+@[a-z]+\.[a-z]{2,3}"
+      />
+
+      <input type="search" name="" id="" />
+      <input type="tel" name="" id="" />
+      <input
+        type="date"
+        name=""
+        id="dateInp"
+        min="2025-08-05"
+        max="2025-08-15"
+      />
+
+      <input type="time" name="" id="" />
+
+
+      <input type="datetime-local" name="" id="" />
+
+      <input type="month" name="" id="" />
+
+      <input type="week" name="" id="" />
+      <input type="reset" value="reset" />
+      <button>Submit</button>
+    </form> -->
+
+    <div class="container">
+      <audio controls autoplay muted loop>
+        <source src="media/Anitek_-_Komorebi.ogg" />
+        <source src="media/Anitek_-_Komorebi.mp3" />
+        Your browser doesnot support audio
+      </audio>
+      <div class="controls">
+        <button onclick="playPauseAud(event)">Play</button>
+        <button onclick="stopAud()">Stop</button>
+        <button onclick="muteAud()">Mute</button>
+        <button onclick="Test()">Test</button>
+
+        <br />
+        <br />
+        <label for="">Volume</label>
+        <input type="range" name="" id="volumeInp" min="0" max="1" step=".1" />
+        <br />
+        <br />
+        <label for="">Time</label>
+        <input type="range" name="" id="timeInp" min="0" />
+
+        <label for="">Speed</label>
+        <select name="" id="speed">
+          <option>0.25</option>
+          <option>0.5</option>
+          <option>1</option>
+          <option>1.25</option>
+          <option>1.5</option>
+          <option>2</option>
+        </select>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

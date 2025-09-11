@@ -1,0 +1,98 @@
+
+
+/* body{
+  height: 4000px;
+}
+.grandparent{
+
+  background-color: khaki;
+  width: 400px;
+  padding: 30px; */
+  /* position: relative; */
+
+
+/* }
+
+.parent{
+  background-color: lightgray;
+  padding: 20px;
+  position: relative;
+  height: 1000px;
+} */
+
+
+/* .parent div{
+  padding: 30px;
+}
+
+.child-1{
+  background-color: lightgreen;
+}
+.child-2{
+  background-color: lightcoral; */
+  /* position: absolute;
+  bottom: 0;
+  right: 0; */
+  /* top: 50px;
+  left: 400px; */
+  /* bottom: ; */
+  /* left: ; */
+  /* right: ; */
+  /* position: absolute;
+  bottom: 0;
+  right: 0; */
+  /* position: fixed;
+  bottom: 0;
+  right: 0; */
+  /* position: sticky;
+  top: 10px;
+}
+.child-3{
+  background-color: lightblue;
+} */
+
+
+/* input{
+font-size: 30px;
+  display: block;
+  margin-bottom: 10px;
+}
+input:not([type=range]){
+  padding: 10px 30px;
+  
+}
+
+
+
+button{
+  padding: 10px 30px;
+} */
+
+body{
+  background-color: #c0c3ff;
+}
+
+.container{
+  width: 500px;
+  margin: 200px auto;
+  height: 400px;
+  background-color: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+
+audio{
+  margin: 100px auto 0px;
+  display: block;
+  
+}
+
+.controls{
+  margin: 50px auto;
+  width: 65%;
+}
+
+button{
+  padding: 10px 30px;
+}

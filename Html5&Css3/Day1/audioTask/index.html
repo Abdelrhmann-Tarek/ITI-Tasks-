@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+  </head>
+  <body>
+    <section class="all-program-container">
+      <audio id="audio-play" src="./media/Anitek_-_Komorebi.mp3"></audio><br />
+      <!-- ================   ========================================================== -->
+      <section class="time-container">
+        <label id="current-time"></label>
+
+        <input type="range" name="" id="time-range" min="0" />
+        <label id="total-time"></label>
+      </section>
+      <!-- ============================================================== -->
+      <section class="control-container">
+        <button onclick="previosAudio()" id="previos-button">
+          <img src="./images/backward-step.svg" alt="" />
+        </button>
+        <button onclick="playPause(event)" id="play-pause-button">
+          <img src="./images/playIcon.svg" class="play-image" />
+        </button>
+        <button onclick="stopAudio()" id="stop-button">
+          <img src="./images/stop-solid.svg" alt="" />
+        </button>
+        <button onclick="nextAudio()" id="next-button">
+          <img src="./images/forward-step.svg" alt="" />
+        </button>
+      </section>
+      <!-- ============================================================ -->
+      <section class="sound-container">
+        <label id="sound-label"><img src="./images/volume.svg" alt="" /></label>
+
+        <input type="range" name id="sound-range" min="0" max="1" step="0.1" />
+      </section>
+    </section>
+
+    <script src="main.js"></script>
+  </body>
+</html>

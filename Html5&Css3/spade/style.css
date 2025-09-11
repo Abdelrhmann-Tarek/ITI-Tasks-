@@ -1,0 +1,10 @@
+text {
+  font-family: "Playfair Display", serif;
+}
+body {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
