@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\OOP\\Day3\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF1271-9F6A-4ABD-AF0A-0BE4912052C5}|Day3\\Day3.csproj|d:\\iti\\oop\\day3\\day3\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF1271-9F6A-4ABD-AF0A-0BE4912052C5}|Day3\\Day3.csproj|solutionrelative:day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\OOP\\Day3\\Day3\\Day3\\Program.cs",
+              "RelativeDocumentMoniker": "Day3\\Program.cs",
+              "ToolTip": "D:\\ITI\\OOP\\Day3\\Day3\\Day3\\Program.cs",
+              "RelativeToolTip": "Day3\\Program.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwLQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:02:35.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

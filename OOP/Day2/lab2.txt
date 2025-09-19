@@ -1,0 +1,17 @@
+-A program to take a character from the user, and then display its ASCII code.
+-Same program but vice versa.
+-A program to take a num from user and display odd or even based on this num.
+-A program to take two numbers and print the sum, subtraction, multiplication.
+-A program to take student degree and calculate grade
+-Multiplication table
+Bonus:
+•How can you count the occurrence of 1 from 1 to 99,999,999 (1 short of 100 million) and total up how many 1s were there.
+
+(Convert Numbers to String in Case one and use String Functions to Count 1s, 
+Use Only Mathematical Functions and Numeric values in case 2 and see the difference in performance) 
+Is There Any Other Way to Do it in Approximately 1 Second or less
+
+
+
+
+

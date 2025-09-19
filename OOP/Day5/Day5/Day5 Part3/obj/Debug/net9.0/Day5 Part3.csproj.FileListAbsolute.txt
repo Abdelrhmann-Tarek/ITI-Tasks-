@@ -1,0 +1,14 @@
+D:\ITI\OOP\Day5\Day5\Day5 Part3\bin\Debug\net9.0\Day5 Part3.exe
+D:\ITI\OOP\Day5\Day5\Day5 Part3\bin\Debug\net9.0\Day5 Part3.deps.json
+D:\ITI\OOP\Day5\Day5\Day5 Part3\bin\Debug\net9.0\Day5 Part3.runtimeconfig.json
+D:\ITI\OOP\Day5\Day5\Day5 Part3\bin\Debug\net9.0\Day5 Part3.dll
+D:\ITI\OOP\Day5\Day5\Day5 Part3\bin\Debug\net9.0\Day5 Part3.pdb
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.AssemblyInfoInputs.cache
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.AssemblyInfo.cs
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.csproj.CoreCompileInputs.cache
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.dll
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\refint\Day5 Part3.dll
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.pdb
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\Day5 Part3.genruntimeconfig.cache
+D:\ITI\OOP\Day5\Day5\Day5 Part3\obj\Debug\net9.0\ref\Day5 Part3.dll

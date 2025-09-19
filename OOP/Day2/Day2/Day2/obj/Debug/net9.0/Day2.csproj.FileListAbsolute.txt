@@ -1,0 +1,14 @@
+D:\ITI\OOP\Day2\Day2\Day2\bin\Debug\net9.0\Day2.exe
+D:\ITI\OOP\Day2\Day2\Day2\bin\Debug\net9.0\Day2.deps.json
+D:\ITI\OOP\Day2\Day2\Day2\bin\Debug\net9.0\Day2.runtimeconfig.json
+D:\ITI\OOP\Day2\Day2\Day2\bin\Debug\net9.0\Day2.dll
+D:\ITI\OOP\Day2\Day2\Day2\bin\Debug\net9.0\Day2.pdb
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.AssemblyInfoInputs.cache
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.AssemblyInfo.cs
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.csproj.CoreCompileInputs.cache
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.dll
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\refint\Day2.dll
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.pdb
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\Day2.genruntimeconfig.cache
+D:\ITI\OOP\Day2\Day2\Day2\obj\Debug\net9.0\ref\Day2.dll
